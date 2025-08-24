@@ -5,3 +5,4 @@ export default defineConfig({
   plugins: [react()],
   base: './',   // 🔥 ensures assets load correctly on Vercel
 })
+
