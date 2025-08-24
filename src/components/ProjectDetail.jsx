@@ -83,8 +83,8 @@ const handleGithubClick = (githubLink) => {
     Swal.fire({
       icon: 'info',
       title: 'Source Code Private',
-      text: 'Maaf, source code untuk proyek ini bersifat privat.',
-      confirmButtonText: 'Mengerti',
+      text: 'Sorry, the source code for this project is private.',
+      confirmButtonText: 'Understand',
       confirmButtonColor: '#3085d6',
       background: '#030014',
       color: '#ffffff'
@@ -110,7 +110,7 @@ const ProjectDetails = () => {
         ...selectedProject,
         Features: selectedProject.Features || [],
         TechStack: selectedProject.TechStack || [],
-        Github: selectedProject.Github || 'https://github.com/EkiZR',
+        Github: selectedProject.Github || 'https://github.com/okourav01',
       };
       setProject(enhancedProject);
     }

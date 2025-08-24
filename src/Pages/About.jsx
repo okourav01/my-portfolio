@@ -205,7 +205,7 @@ const AboutPage = () => {
                 data-aos="fade-right"
                 data-aos-duration="1300"
               >
-                Eki Zulfar Rachman
+                OM Kourav
               </span>
             </h2>
             
@@ -214,7 +214,7 @@ const AboutPage = () => {
               data-aos="fade-right"
               data-aos-duration="1500"
             >
-             Seorang lulusan Teknik Jaringan Komputer dan Telekomunikasi yang memiliki ketertarikan besar dalam pengembangan Front-End. Saya berfokus pada menciptakan pengalaman digital yang menarik dan selalu berusaha memberikan solusi terbaik dalam setiap proyek yang saya kerjakan.
+             I am a Python Developer. I specialize in building efficient and scalable applications. I am passionate about creating innovative solutions to complex problems. I enjoy working with the latest technologies and frameworks to deliver high-quality software.
             </p>
 
                {/* Quote Section */}
